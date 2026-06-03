@@ -1,16 +1,30 @@
-## Hi there 👋
+# Marcos Vinicius de Azevedo
 
-<!--
-**Pyrad-Time/Pyrad-Time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building discipline through code.
 
-Here are some ideas to get you started:
+Estudante de Desenvolvimento Web, focado em transformar estudo em projetos práticos e evolução real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente construindo uma base sólida em JavaScript, React, Node.js, Express e PostgreSQL.
+
+## Stack atual
+
+- Front-end: HTML, CSS, JavaScript, React, Vite
+- Back-end: Node.js, Express
+- Banco de dados: PostgreSQL, SQL
+- Ferramentas: Git, GitHub, Postman, VS Code
+
+## Projetos em destaque
+
+### Notes App
+
+Aplicação full stack de notas criada para praticar o fluxo completo de uma aplicação web.
+
+React → API REST → Node.js/Express → PostgreSQL
+
+### Task Manager App
+
+Aplicação de tarefas desenvolvida com JavaScript, consumo de API, filtros, busca e LocalStorage.
+
+## Em evolução
+
+Atualmente estudando desenvolvimento web com foco em projetos progressivos, repetição prática e construção de portfólio para estágio.
