@@ -8,7 +8,7 @@ Atualmente construindo projetos full stack para consolidar fundamentos de front-
 
 ## Tech Stack
 
-HTML • CSS • JavaScript • React • Node.js • Express • PostgreSQL • Git • GitHub
+HTML • CSS • JavaScript • React • Node.js • Express • PostgreSQL • Docker • Git • GitHub
 
 ## Featured Projects
 
